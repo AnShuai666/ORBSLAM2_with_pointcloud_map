@@ -2,7 +2,7 @@
 
 ## build:
 
-### build the whole project ( inclouding binary loading tools ):
+### build the whole project ( including binary loading tools ):
 
 Before all the cmd, **DONOT** forget to download the Vocabulary form the [origin repo](https://github.com/raulmur/ORB_SLAM2) and place it into dir ./Vocabulary
 
